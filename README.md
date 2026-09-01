@@ -63,6 +63,35 @@ The large gap between correct and incorrect prediction confidence indicates the 
 
 ---
 
+## Visual Results
+
+
+### Confusion Matrix
+![Confusion Matrix](results/confusion_matrix.png)
+ 
+### Training Curves (Accuracy & Loss)
+![Training Curves](results/training_curves.png)
+ 
+### ROC Curve — Per Class
+![ROC Curve](results/roc_curve.png)
+ 
+### Precision-Recall Curve — Per Class
+![Precision-Recall Curve](results/precision_recall_curve.png)
+ 
+### Prediction Confidence Distribution
+![Confidence Distribution](results/confidence_distribution.png)
+ 
+### Calibration Curve
+![Calibration Curve](results/calibration_curve.png)
+ 
+### Bootstrap Accuracy Distribution (95% CI)
+![Bootstrap CI](results/bootstrap_ci.png)
+ 
+### Misclassified Examples
+![Misclassified Examples](results/misclassified_examples.png)
+ 
+---
+
 ## Usage
 
 ### Installation
@@ -108,8 +137,8 @@ Industrial quality control automation for steel manufacturing — reduces manual
 
 | Platform | Link |
 |---|---|
-| AIKosh (India AI) | [Add your AIKosh model page URL here] |
-| Hugging Face | [Add your Hugging Face model page URL here] |
+| AIKosh (India AI) |  |
+| Hugging Face |  |
 
 ---
 
